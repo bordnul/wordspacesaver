@@ -1,5 +1,5 @@
 # wordspacesaver
-The premise of this concept is that words are repeated and take up space. Make a list of common words, repalce them with a utf character the represents the word's place on that map, and it will save space.
+The premise of this concept is that words are repeated and take up space. Make a list of common words, replace them with a utf character the represents the word's place on that map, and it will save space.
 
 Here is how it works:
 
