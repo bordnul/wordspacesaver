@@ -13,3 +13,5 @@ Here is how it works:
     Read encoded string, check for @, check @ word size, convert utf symbol to int value, find value in the array, replace symbol with stored word.
  
 Here is a working example: https://play.golang.org/p/OfkSZXhgfpv
+
+wordlist.txt was obtained from https://github.com/first20hours/google-10000-english and modified to contain no words under four letters long.
